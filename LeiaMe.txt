@@ -1,0 +1,3 @@
+1. Extraia o arquivo Movib.rar
+2. Primeira pasta contem a programação do jogo
+3. Ultima pasta contem a programação do disposito compativel com o jogo
