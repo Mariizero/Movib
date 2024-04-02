@@ -1,2 +1,2 @@
-1. Extraia o arquivo Movib.rar
-2. Abrir pasta "Unity Project"
+
+1. Abrir pasta "Unity Project"
